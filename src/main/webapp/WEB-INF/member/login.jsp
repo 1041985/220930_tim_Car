@@ -20,7 +20,7 @@
 	//     typeof(Storage) !== 'undefined' && sessionStorage.setItem('AccessKEY', JSON.stringify(token)); 
 	// };
 
-	/*  window.Kakao.init('c9f0709e1a36c281eef760936156d72a');
+	window.Kakao.init('c9f0709e1a36c281eef760936156d72a');
 	 console.log(Kakao.isInitialized());
 	 
 	 function kakaoLogin() {
@@ -61,7 +61,7 @@
 	 
 	 const login = document.querySelector('#kakaoLogin');
 	 login.addEventListener('click', kakaoLogin);
-	 */
+	 
 
 	/*  success: (res)
 
@@ -73,6 +73,8 @@
 	 $('#name').val(name);
 	 $('#email').val(email);
 	 여기에 빈 값이 들어갔기 때문에 컨트롤러에서 안 나왔을 거야 */
+	 
+	 
 </script>
 	
 <title>이차어때 Login</title>
