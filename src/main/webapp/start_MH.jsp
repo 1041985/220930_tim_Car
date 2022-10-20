@@ -5,5 +5,4 @@ start.jsp<br>
 	<% String viewMain = request.getContextPath()+"/main.mem"; %>
 	<% response.sendRedirect(viewMain); %>
 
-	<!-- 깃 올라가라 -->
-	<!-- 마스터에 올라가 -->
+	<!-- 가보자고 -->
