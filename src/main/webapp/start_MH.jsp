@@ -6,3 +6,4 @@ start.jsp<br>
 	<% response.sendRedirect(viewMain); %>
 
 	<!-- 가보자고 -->
+	<!-- 제발 -->
