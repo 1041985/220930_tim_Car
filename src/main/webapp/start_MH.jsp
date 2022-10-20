@@ -4,3 +4,5 @@ start.jsp<br>
 	
 	<% String viewMain = request.getContextPath()+"/main.mem"; %>
 	<% response.sendRedirect(viewMain); %>
+
+	<!-- 하하 충돌 멈춰 ! -->
